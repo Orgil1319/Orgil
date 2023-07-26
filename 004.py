@@ -9,6 +9,7 @@ if a % b ==0:
 
 elif a % b ==1:
     print("1")
-if a % b ==2:
+else:
+    a % b ==2
     print("2")
 
